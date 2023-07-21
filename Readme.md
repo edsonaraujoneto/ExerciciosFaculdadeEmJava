@@ -1,8 +1,7 @@
-<h1> Exercicios da Faculdade </h1>h1>
-Exercícios realizados em sala na faculdade de Ciência da Computação na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista.
+<h1> Exercicios da Faculdade </h1>
+Aqui estão todos os exercícios realizados em sala de aula no II semestre na graduação de <strong>Ciência da Computação</strong> na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista.
+
+As aulas foram ministradas pela professora <strong>Maísa Soares </strong>
 
 As descrições dos exercícios estão comentados em cada código.
-
-Tentei ser o mais organizado possível.
-
 Conteúdo postado com objetivo de ajudar outros iniciantes na programação e também mostrar um pouco do meu repertório.
