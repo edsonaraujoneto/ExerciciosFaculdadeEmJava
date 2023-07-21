@@ -1,5 +1,6 @@
 <h1> Exercicios da Faculdade </h1>
-Aqui estão todos os exercícios realizados em sala de aula no II semestre na graduação de <strong>Ciência da Computação</strong> na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista.
+Aqui estão todos os exercícios realizados em sala de aula no II semestre na graduação de <strong>Ciência da Computação</strong> 
+na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista, Bahia.
 
 As aulas foram ministradas pela professora <strong>Maísa Soares </strong>
 
