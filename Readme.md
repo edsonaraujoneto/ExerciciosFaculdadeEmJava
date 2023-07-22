@@ -3,8 +3,8 @@ Aqui estão todos os exercícios realizados em sala de aula no II semestre na gr
 na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista, Bahia. <br>
 <br>
 
-As aulas foram ministradas pela professora <strong>Maísa Soares Dos Santos Lopes </strong>. Todo conteúdo em formato doc é de direito da mesma.
+As aulas foram ministradas pela professora <strong>Maísa Soares Dos Santos Lopes</strong>. Todo conteúdo em formato doc é de direito da mesma.
 <br>
 
 Conteúdo postado com objetivo de ajudar outros iniciantes na programação e também mostrar um pouco do meu desenvolvimento na linguagem.
-Todos os códigos em java são de autoria de Edson Araujo de Souza Neto
+Todos os códigos em java são de autoria de <strong>Edson Araujo de Souza Neto</strong>.
