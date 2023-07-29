@@ -6,5 +6,6 @@ na Universidade Estadual do Sudoeste da Bahia (UESB) em Vitória da Conquista, B
 As aulas foram ministradas pela professora <strong>Maísa Soares Dos Santos Lopes</strong>. 
 <br>
 
-Conteúdo postado com objetivo de ajudar outros iniciantes na programação e também mostrar um pouco do meu desenvolvimento na linguagem.
-Todos os códigos em java são de autoria de <strong>Edson Araujo de Souza Neto</strong>.
+Conteúdo postado com objetivo de ajudar outros iniciantes na programação e também mostrar um pouco do meu desenvolvimento na linguagem.<br>
+
+Todos os códigos aqui postados são de autoria de <strong>Edson Araujo de Souza Neto</strong>.
